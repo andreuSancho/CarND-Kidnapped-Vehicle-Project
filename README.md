@@ -81,6 +81,8 @@ The only file you should modify is `particle_filter.cpp` in the `src` directory.
 
 If you are interested, take a look at `src/main.cpp` as well. This file contains the code that will actually be running your particle filter and calling the associated methods.
 
+Note that in this repository the data is stored in a compressed zip. 
+
 ## Inputs to the Particle Filter
 You can find the inputs to the particle filter in the `data` directory. 
 
@@ -120,4 +122,4 @@ The two things the grading code is looking for are:
 
 # Result
 
-
+![Result of the simulation.](https://github.com/andreuSancho/CarND-Kidnapped-Vehicle-Project/result.jpg)
