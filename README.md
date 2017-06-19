@@ -122,4 +122,4 @@ The two things the grading code is looking for are:
 
 # Result
 
-![Result of the simulation.](https://github.com/andreuSancho/CarND-Kidnapped-Vehicle-Project/result.jpg)
+![Result of the simulation.](https://github.com/andreuSancho/CarND-Kidnapped-Vehicle-Project/blob/master/result.jpg)
